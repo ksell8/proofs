@@ -1,0 +1,10 @@
+name = "pspace2ndlevelsmash"
+version = "0.1.0"
+defaultTargets = ["pspace2ndlevelsmash"]
+
+[[lean_lib]]
+name = "Pspace2ndlevelsmash"
+
+[[lean_exe]]
+name = "pspace2ndlevelsmash"
+root = "Main"
